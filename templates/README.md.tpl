@@ -1,19 +1,16 @@
 ## Hi there 👋
 
+<img align="right" src="https://raw.githubusercontent.com/EAGEA/EAGEA/main/assets/muscle_up.svg" width="260">
+
 ### 🌱 My latest projects
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 🔭 Latest projects I've contributed to
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
-{{- end}}
-
 ### 📫 How to reach me
 - <a href="https://www.linkedin.com/in/emilien-aufauvre/">
-     <img src="https://github.com/EAGEA/EAGEA/blob/main/res/linkedin.svg" width="30" height="30"/> 
-     <p>Linkedin</p>
+     <img src="https://raw.githubusercontent.com/EAGEA/EAGEA/main/assets/linkedin.svg" width="30" height="30"/>
+     Linkedin
 </a>
 
 _Automatically generated_ 🤖
