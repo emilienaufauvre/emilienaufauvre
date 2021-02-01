@@ -7,6 +7,11 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
+### 🔭 Latest projects I've contributed to
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
+{{- end}}
+
 ### 📫 How to reach me
 - <a href="https://www.linkedin.com/in/emilien-aufauvre/">
      <img src="https://raw.githubusercontent.com/EAGEA/EAGEA/main/assets/linkedin.svg" width="30" height="30"/>
