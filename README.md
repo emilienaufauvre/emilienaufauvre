@@ -4,6 +4,7 @@
 
 ### 🌱 My latest projects
 
+- [EAGEA/My-Linux-Config](https://github.com/EAGEA/My-Linux-Config) - 
 - [EAGEA/NachOS-Improved](https://github.com/EAGEA/NachOS-Improved) - A improved version of the NachOS, including: IO, multithreading, virtual memory, file system, and network.
 - [EAGEA/Crypto.com-Wallet](https://github.com/EAGEA/Crypto.com-Wallet) - Fetch current time prices to view your crypto.com wallet and summary of your transactions, thanks to your .csv file and CoinAPI.
 
