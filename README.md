@@ -25,5 +25,6 @@
      <img src="https://raw.githubusercontent.com/EAGEA/EAGEA/main/assets/linkedin.svg" width="30" height="30"/>
      Linkedin
 </a>
-
+<br>
+<br>
 _Automatically generated_ 🤖
