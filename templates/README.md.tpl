@@ -1,6 +1,15 @@
-## Hi there 👋
-
-<img align="right" src="https://raw.githubusercontent.com/EAGEA/EAGEA/main/assets/muscle_up.svg" width="260">
+<div align="center">
+	<br>
+	<br>
+	<img src="assets/muscle_up.svg" width="200" height="200">
+	<h1>Superchat</h1>
+	<p>
+	<b>Hi there 👋</b>
+	</p>
+	<br>
+	<br>
+	<br>
+</div>
 
 ### 🌱 My latest projects
 {{range recentRepos 10}}
