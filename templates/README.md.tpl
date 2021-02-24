@@ -1,6 +1,8 @@
 <div align="center">
 	<br>
-	<img src="assets/muscle_up.svg" width="200" height="200">
+	<a href="https://play.google.com/store/apps/details?id=eagea.muscleup">
+		<img src="assets/muscle_up.svg" width="200" height="200">
+	</a>
 	<h1>Hi there 👋</h1>
 	<br>
 </div>
