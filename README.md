@@ -1,13 +1,7 @@
 <div align="center">
 	<br>
-	<br>
 	<img src="assets/muscle_up.svg" width="200" height="200">
-	<h1>Superchat</h1>
-	<p>
-	<b>Hi there 👋</b>
-	</p>
-	<br>
-	<br>
+	<h1>Hi there 👋</h1>
 	<br>
 </div>
 
