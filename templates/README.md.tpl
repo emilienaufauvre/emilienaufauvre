@@ -28,8 +28,7 @@
     <a href="https://github.com/anuraghazra/convoychat">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAGEA&layout=compact&count_private=true&theme=dracula" />
     </a>
+    <br>
+    <br>
+    <p><i>Automatically generated</i> 🤖</p>
 </div>
-<br>
-<br>
-
-_Automatically generated_ 🤖
