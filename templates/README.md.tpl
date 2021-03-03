@@ -25,8 +25,8 @@
 <br>
 <br>
 <div align="center">
-    <a href="https://github.com/anuraghazra/convoychat">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAGEA&layout=compact&count_private=true&theme=dracula" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAGEA&layout=compact&langs_count=8&count_private=true&theme=dracula" />
     </a>
     <br>
     <br>
