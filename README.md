@@ -1,10 +1,10 @@
 <div align="center">
-	<br>
-	<a href="https://play.google.com/store/apps/details?id=eagea.muscleup">
-		<img src="assets/muscle_up.svg" width="200" height="200">
-	</a>
-	<h1>Hi there 👋</h1>
-	<br>
+    <br>
+    <a href="https://play.google.com/store/apps/details?id=eagea.muscleup">
+        <img src="assets/muscle_up.svg" width="200" height="200">
+    </a>
+    <h1>Hi there 👋</h1>
+    <br>
 </div>
 
 ### 🌱 My latest projects
@@ -29,6 +29,13 @@
      <img src="https://raw.githubusercontent.com/EAGEA/EAGEA/main/assets/linkedin.svg" width="30" height="30"/>
      Linkedin
 </a>
+<br>
+<br>
+<div align="center">
+    <a href="https://github.com/anuraghazra/convoychat">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAGEA&layout=compact&count_private=true&theme=dracula" />
+    </a>
+</div>
 <br>
 <br>
 
