@@ -18,8 +18,8 @@
 
 ### 🔭 Latest projects I've contributed to
 
-- [EAGEA/Java-RMI-Chat](https://github.com/EAGEA/Java-RMI-Chat) - 💬 An online chat for several users using Java RMI.
 - [EAGEA/Java-RabbitMQ-Chat](https://github.com/EAGEA/Java-RabbitMQ-Chat) - 💬 An online chat for several users using Java RabbitMQ.
+- [EAGEA/Java-RMI-Chat](https://github.com/EAGEA/Java-RMI-Chat) - 💬 An online chat for several users using Java RMI.
 - [EAGEA/My-Linux-Config](https://github.com/EAGEA/My-Linux-Config) - 🐧 Simple setup for my Ubuntu distribution.
 - [EAGEA/Imaginary-Keyboard](https://github.com/EAGEA/Imaginary-Keyboard) - ⌨️ Simulate a keyboard on any surface with only a RGB camera and this script.
 - [EAGEA/Crypto.com-Wallet](https://github.com/EAGEA/Crypto.com-Wallet) - 🔐 Fetch current time prices to view your crypto.com wallet and summary of your transactions, thanks to your .csv file and CoinAPI.
