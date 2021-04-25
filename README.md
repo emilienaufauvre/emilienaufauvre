@@ -19,8 +19,8 @@
 
 ### 🔭 Latest projects I've contributed to
 
-- [EAGEA/Node.io](https://github.com/EAGEA/Node.io) - 🎮 A cross platform multiplayer game for android, iOS, web and desktop, using RabbitMQ for communications.
 - [EAGEA/COMPAS](https://github.com/EAGEA/COMPAS) - 🔎 An analysis of the COMPAS software results using the ProPublica dataset.
+- [EAGEA/Node.io](https://github.com/EAGEA/Node.io) - 🎮 A cross platform multiplayer game for android, iOS, web and desktop, using RabbitMQ for communications.
 - [EAGEA/Java-RMI-Chat](https://github.com/EAGEA/Java-RMI-Chat) - 💬 An online chat for several users using Java RMI.
 - [EAGEA/Java-RabbitMQ-Chat](https://github.com/EAGEA/Java-RabbitMQ-Chat) - 🥕 An online chat for several users using Java RabbitMQ.
 - [EAGEA/My-Linux-Config](https://github.com/EAGEA/My-Linux-Config) - 🐧 Simple setup for my Ubuntu distribution.
