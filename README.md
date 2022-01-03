@@ -9,7 +9,7 @@
 
 ### 🌱 My latest projects
 
-- [EAGEA/Carbon-Visualization](https://github.com/EAGEA/Carbon-Visualization) - 
+- [EAGEA/Carbon-Visualizations](https://github.com/EAGEA/Carbon-Visualizations) - Visualizations of the co2 emitted during work travels by researchers, using the D3.js library.
 - [EAGEA/Neural-Network-CUDA-Library](https://github.com/EAGEA/Neural-Network-CUDA-Library) - 
 - [EAGEA/Predict-Elections-In-Real-Time](https://github.com/EAGEA/Predict-Elections-In-Real-Time) - Unsupervised machine learning to predict elections in real-time with Twitter content, using NLP  and multi-core algorithms.
 - [EAGEA/COMPAS](https://github.com/EAGEA/COMPAS) - 🔎 An analysis of the COMPAS software results using the ProPublica dataset.
@@ -22,7 +22,7 @@
 
 ### 🔭 Latest projects I've contributed to
 
-- [EAGEA/Carbon-Visualization](https://github.com/EAGEA/Carbon-Visualization) - 
+- [EAGEA/Carbon-Visualizations](https://github.com/EAGEA/Carbon-Visualizations) - Visualizations of the co2 emitted during work travels by researchers, using the D3.js library.
 - [EAGEA/Neural-Network-CUDA-Library](https://github.com/EAGEA/Neural-Network-CUDA-Library) - 
 - [EAGEA/COMPAS](https://github.com/EAGEA/COMPAS) - 🔎 An analysis of the COMPAS software results using the ProPublica dataset.
 - [EAGEA/My-Linux-Config](https://github.com/EAGEA/My-Linux-Config) - 🐧 Simple setup for my Ubuntu distribution.
