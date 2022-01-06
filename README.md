@@ -22,8 +22,8 @@
 
 ### 🔭 Latest projects I've contributed to
 
-- [EAGEA/Carbon-Visualizations](https://github.com/EAGEA/Carbon-Visualizations) - Visualizations of the co2 emitted during work travels by researchers, using the D3.js library.
 - [EAGEA/Neural-Network-CUDA-Library](https://github.com/EAGEA/Neural-Network-CUDA-Library) - 
+- [EAGEA/Carbon-Visualizations](https://github.com/EAGEA/Carbon-Visualizations) - Visualizations of the co2 emitted during work travels by researchers, using the D3.js library.
 - [EAGEA/COMPAS](https://github.com/EAGEA/COMPAS) - 🔎 An analysis of the COMPAS software results using the ProPublica dataset.
 - [EAGEA/My-Linux-Config](https://github.com/EAGEA/My-Linux-Config) - 🐧 Simple setup for my Ubuntu distribution.
 - [EAGEA/Node.io](https://github.com/EAGEA/Node.io) - 🎮 A cross platform multiplayer game for android, iOS, web and desktop, using RabbitMQ for communications.
