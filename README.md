@@ -35,7 +35,7 @@
 
 ### 📫 How to reach me
 - <a href="https://www.linkedin.com/in/emilien-aufauvre/">
-     <img src="https://raw.githubusercontent.com/EAGEA/EAGEA/main/assets/linkedin.svg" width="30" height="30"/>
+     <img src="https://raw.githubusercontent.com/emilienaufauvre/emilienaufauvre/main/assets/linkedin.svg" width="30" height="30"/>
      Linkedin
 </a>
 <br>
