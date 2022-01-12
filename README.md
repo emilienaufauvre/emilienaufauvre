@@ -9,29 +9,29 @@
 
 ### 🌱 My latest projects
 
-- [EAGEA/Carbon-Visualizations](https://github.com/EAGEA/Carbon-Visualizations) - Visualizations of the co2 emitted during work travels by researchers, using the D3.js library.
-- [EAGEA/Neural-Network-CUDA-Library](https://github.com/EAGEA/Neural-Network-CUDA-Library) - 
-- [EAGEA/Predict-Elections-In-Real-Time](https://github.com/EAGEA/Predict-Elections-In-Real-Time) - Unsupervised machine learning to predict elections in real-time with Twitter content, using NLP  and multi-core algorithms.
-- [EAGEA/COMPAS](https://github.com/EAGEA/COMPAS) - 🔎 An analysis of the COMPAS software results using the ProPublica dataset.
-- [EAGEA/Node.io](https://github.com/EAGEA/Node.io) - 🎮 A cross platform multiplayer game for android, iOS, web and desktop, using RabbitMQ for communications.
-- [EAGEA/Java-RabbitMQ-Chat](https://github.com/EAGEA/Java-RabbitMQ-Chat) - 🥕 An online chat for several users using Java RabbitMQ.
-- [EAGEA/Java-RMI-Chat](https://github.com/EAGEA/Java-RMI-Chat) - 💬 An online chat for several users using Java RMI.
-- [EAGEA/My-Linux-Config](https://github.com/EAGEA/My-Linux-Config) - 🐧 Simple setup for my Ubuntu distribution.
-- [EAGEA/NachOS-Improved](https://github.com/EAGEA/NachOS-Improved) - 🌮 A improved version of the NachOS, including: IO, multithreading, virtual memory, file system, and network.
-- [EAGEA/Crypto.com-Wallet](https://github.com/EAGEA/Crypto.com-Wallet) - 🔐 Fetch current time prices to view your crypto.com wallet and summary of your transactions, thanks to your .csv file and CoinAPI.
+- [emilienaufauvre/Carbon-Visualizations](https://github.com/emilienaufauvre/Carbon-Visualizations) - Visualizations of the co2 emitted during work travels by researchers, using the D3.js library.
+- [emilienaufauvre/Neural-Network-CUDA-Library](https://github.com/emilienaufauvre/Neural-Network-CUDA-Library) - 
+- [emilienaufauvre/Predict-Elections-In-Real-Time](https://github.com/emilienaufauvre/Predict-Elections-In-Real-Time) - Unsupervised machine learning to predict elections in real-time with Twitter content, using NLP  and multi-core algorithms.
+- [emilienaufauvre/COMPAS](https://github.com/emilienaufauvre/COMPAS) - 🔎 An analysis of the COMPAS software results using the ProPublica dataset.
+- [emilienaufauvre/Node.io](https://github.com/emilienaufauvre/Node.io) - 🎮 A cross platform multiplayer game for android, iOS, web and desktop, using RabbitMQ for communications.
+- [emilienaufauvre/Java-RabbitMQ-Chat](https://github.com/emilienaufauvre/Java-RabbitMQ-Chat) - 🥕 An online chat for several users using Java RabbitMQ.
+- [emilienaufauvre/Java-RMI-Chat](https://github.com/emilienaufauvre/Java-RMI-Chat) - 💬 An online chat for several users using Java RMI.
+- [emilienaufauvre/My-Linux-Config](https://github.com/emilienaufauvre/My-Linux-Config) - 🐧 Simple setup for my Ubuntu distribution.
+- [emilienaufauvre/NachOS-Improved](https://github.com/emilienaufauvre/NachOS-Improved) - 🌮 A improved version of the NachOS, including: IO, multithreading, virtual memory, file system, and network.
+- [emilienaufauvre/Crypto.com-Wallet](https://github.com/emilienaufauvre/Crypto.com-Wallet) - 🔐 Fetch current time prices to view your crypto.com wallet and summary of your transactions, thanks to your .csv file and CoinAPI.
 
 ### 🔭 Latest projects I've contributed to
 
-- [EAGEA/Neural-Network-CUDA-Library](https://github.com/EAGEA/Neural-Network-CUDA-Library) - 
-- [EAGEA/Carbon-Visualizations](https://github.com/EAGEA/Carbon-Visualizations) - Visualizations of the co2 emitted during work travels by researchers, using the D3.js library.
-- [EAGEA/COMPAS](https://github.com/EAGEA/COMPAS) - 🔎 An analysis of the COMPAS software results using the ProPublica dataset.
-- [EAGEA/My-Linux-Config](https://github.com/EAGEA/My-Linux-Config) - 🐧 Simple setup for my Ubuntu distribution.
-- [EAGEA/Node.io](https://github.com/EAGEA/Node.io) - 🎮 A cross platform multiplayer game for android, iOS, web and desktop, using RabbitMQ for communications.
-- [EAGEA/Java-RabbitMQ-Chat](https://github.com/EAGEA/Java-RabbitMQ-Chat) - 🥕 An online chat for several users using Java RabbitMQ.
-- [EAGEA/Java-RMI-Chat](https://github.com/EAGEA/Java-RMI-Chat) - 💬 An online chat for several users using Java RMI.
-- [EAGEA/Crypto.com-Wallet](https://github.com/EAGEA/Crypto.com-Wallet) - 🔐 Fetch current time prices to view your crypto.com wallet and summary of your transactions, thanks to your .csv file and CoinAPI.
+- [emilienaufauvre/Neural-Network-CUDA-Library](https://github.com/emilienaufauvre/Neural-Network-CUDA-Library) - 
+- [emilienaufauvre/Carbon-Visualizations](https://github.com/emilienaufauvre/Carbon-Visualizations) - Visualizations of the co2 emitted during work travels by researchers, using the D3.js library.
+- [emilienaufauvre/COMPAS](https://github.com/emilienaufauvre/COMPAS) - 🔎 An analysis of the COMPAS software results using the ProPublica dataset.
+- [emilienaufauvre/My-Linux-Config](https://github.com/emilienaufauvre/My-Linux-Config) - 🐧 Simple setup for my Ubuntu distribution.
+- [emilienaufauvre/Node.io](https://github.com/emilienaufauvre/Node.io) - 🎮 A cross platform multiplayer game for android, iOS, web and desktop, using RabbitMQ for communications.
+- [emilienaufauvre/Java-RabbitMQ-Chat](https://github.com/emilienaufauvre/Java-RabbitMQ-Chat) - 🥕 An online chat for several users using Java RabbitMQ.
+- [emilienaufauvre/Java-RMI-Chat](https://github.com/emilienaufauvre/Java-RMI-Chat) - 💬 An online chat for several users using Java RMI.
+- [emilienaufauvre/Crypto.com-Wallet](https://github.com/emilienaufauvre/Crypto.com-Wallet) - 🔐 Fetch current time prices to view your crypto.com wallet and summary of your transactions, thanks to your .csv file and CoinAPI.
 - [jaaufauvre/crypto-portfolio](https://github.com/jaaufauvre/crypto-portfolio) - Fetch prices for a list of crypto assets and generate a simple portfolio summary. See also: https://www.coinapi.io.
-- [EAGEA/NachOS-Improved](https://github.com/EAGEA/NachOS-Improved) - 🌮 A improved version of the NachOS, including: IO, multithreading, virtual memory, file system, and network.
+- [emilienaufauvre/NachOS-Improved](https://github.com/emilienaufauvre/NachOS-Improved) - 🌮 A improved version of the NachOS, including: IO, multithreading, virtual memory, file system, and network.
 
 ### 📫 How to reach me
 - <a href="https://www.linkedin.com/in/emilien-aufauvre/">
