@@ -22,13 +22,13 @@
 
 ### 🔭 Latest projects I've contributed to
 
-- [emilienaufauvre/Neural-Network-CUDA-Library](https://github.com/emilienaufauvre/Neural-Network-CUDA-Library) - 
 - [emilienaufauvre/Carbon-Visualizations](https://github.com/emilienaufauvre/Carbon-Visualizations) - Visualizations of the co2 emitted during work travels by researchers, using the D3.js library.
+- [emilienaufauvre/Neural-Network-CUDA-Library](https://github.com/emilienaufauvre/Neural-Network-CUDA-Library) - 
 - [emilienaufauvre/COMPAS](https://github.com/emilienaufauvre/COMPAS) - 🔎 An analysis of the COMPAS software results using the ProPublica dataset.
 - [emilienaufauvre/My-Linux-Config](https://github.com/emilienaufauvre/My-Linux-Config) - 🐧 Simple setup for my Ubuntu distribution.
 - [emilienaufauvre/Node.io](https://github.com/emilienaufauvre/Node.io) - 🎮 A cross platform multiplayer game for android, iOS, web and desktop, using RabbitMQ for communications.
-- [emilienaufauvre/Java-RabbitMQ-Chat](https://github.com/emilienaufauvre/Java-RabbitMQ-Chat) - 🥕 An online chat for several users using Java RabbitMQ.
 - [emilienaufauvre/Java-RMI-Chat](https://github.com/emilienaufauvre/Java-RMI-Chat) - 💬 An online chat for several users using Java RMI.
+- [emilienaufauvre/Java-RabbitMQ-Chat](https://github.com/emilienaufauvre/Java-RabbitMQ-Chat) - 🥕 An online chat for several users using Java RabbitMQ.
 - [emilienaufauvre/Crypto.com-Wallet](https://github.com/emilienaufauvre/Crypto.com-Wallet) - 🔐 Fetch current time prices to view your crypto.com wallet and summary of your transactions, thanks to your .csv file and CoinAPI.
 - [jaaufauvre/crypto-portfolio](https://github.com/jaaufauvre/crypto-portfolio) - Fetch prices for a list of crypto assets and generate a simple portfolio summary. See also: https://www.coinapi.io.
 - [emilienaufauvre/NachOS-Improved](https://github.com/emilienaufauvre/NachOS-Improved) - 🌮 A improved version of the NachOS, including: IO, multithreading, virtual memory, file system, and network.
