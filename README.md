@@ -11,7 +11,6 @@
 
 - [emilienaufauvre/Carbon-Visualizations](https://github.com/emilienaufauvre/Carbon-Visualizations) - Visualizations of the co2 emitted during work travels by researchers, using the D3.js library.
 - [emilienaufauvre/Neural-Network-CUDA-Library](https://github.com/emilienaufauvre/Neural-Network-CUDA-Library) - 
-- [emilienaufauvre/Predict-Elections-In-Real-Time](https://github.com/emilienaufauvre/Predict-Elections-In-Real-Time) - Unsupervised machine learning to predict elections in real-time with Twitter content, using NLP  and multi-core algorithms.
 - [emilienaufauvre/COMPAS](https://github.com/emilienaufauvre/COMPAS) - 🔎 An analysis of the COMPAS software results using the ProPublica dataset.
 - [emilienaufauvre/Node.io](https://github.com/emilienaufauvre/Node.io) - 🎮 A cross platform multiplayer game for android, iOS, web and desktop, using RabbitMQ for communications.
 - [emilienaufauvre/Java-RabbitMQ-Chat](https://github.com/emilienaufauvre/Java-RabbitMQ-Chat) - 🥕 An online chat for several users using Java RabbitMQ.
