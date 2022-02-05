@@ -21,8 +21,8 @@
 
 ### 🔭 Latest projects I've contributed to
 
-- [emilienaufauvre/Carbon-Visualizations](https://github.com/emilienaufauvre/Carbon-Visualizations) - Visualizations of the co2 emitted during work travels by researchers, using the D3.js library.
 - [emilienaufauvre/Neural-Network-CUDA-Library](https://github.com/emilienaufauvre/Neural-Network-CUDA-Library) - 
+- [emilienaufauvre/Carbon-Visualizations](https://github.com/emilienaufauvre/Carbon-Visualizations) - Visualizations of the co2 emitted during work travels by researchers, using the D3.js library.
 - [emilienaufauvre/COMPAS](https://github.com/emilienaufauvre/COMPAS) - 🔎 An analysis of the COMPAS software results using the ProPublica dataset.
 - [emilienaufauvre/My-Linux-Config](https://github.com/emilienaufauvre/My-Linux-Config) - 🐧 Simple setup for my Ubuntu distribution.
 - [emilienaufauvre/Node.io](https://github.com/emilienaufauvre/Node.io) - 🎮 A cross platform multiplayer game for android, iOS, web and desktop, using RabbitMQ for communications.
