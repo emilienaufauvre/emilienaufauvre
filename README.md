@@ -29,7 +29,6 @@
 - [emilienaufauvre/Java-RMI-Chat](https://github.com/emilienaufauvre/Java-RMI-Chat) - 💬 An online chat for several users using Java RMI.
 - [emilienaufauvre/Java-RabbitMQ-Chat](https://github.com/emilienaufauvre/Java-RabbitMQ-Chat) - 🥕 An online chat for several users using Java RabbitMQ.
 - [emilienaufauvre/Crypto.com-Wallet](https://github.com/emilienaufauvre/Crypto.com-Wallet) - 🔐 Fetch current time prices to view your crypto.com wallet and summary of your transactions, thanks to your .csv file and CoinAPI.
-- [jaaufauvre/crypto-portfolio](https://github.com/jaaufauvre/crypto-portfolio) - Fetch prices for a list of crypto assets and generate a simple portfolio summary. See also: https://www.coinapi.io.
 
 ### 📫 How to reach me
 - <a href="https://www.linkedin.com/in/emilien-aufauvre/">
