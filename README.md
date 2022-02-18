@@ -10,7 +10,7 @@
 ### 🌱 My latest projects
 
 - [emilienaufauvre/Carbon-Visualizations](https://github.com/emilienaufauvre/Carbon-Visualizations) - Visualizations of the co2 emitted during work travels by researchers, using the D3.js library.
-- [emilienaufauvre/Neural-Network-CUDA-Library](https://github.com/emilienaufauvre/Neural-Network-CUDA-Library) - 
+- [emilienaufauvre/Neural-Network-CUDA-Library](https://github.com/emilienaufauvre/Neural-Network-CUDA-Library) - Implementation of a basic neural network, functions and datasets using C&#43;&#43; and CUDA.
 - [emilienaufauvre/COMPAS](https://github.com/emilienaufauvre/COMPAS) - 🔎 An analysis of the COMPAS software results using the ProPublica dataset.
 - [emilienaufauvre/Node.io](https://github.com/emilienaufauvre/Node.io) - 🎮 A cross platform multiplayer game for android, iOS, web and desktop, using RabbitMQ for communications.
 - [emilienaufauvre/Java-RabbitMQ-Chat](https://github.com/emilienaufauvre/Java-RabbitMQ-Chat) - 🥕 An online chat for several users using Java RabbitMQ.
@@ -21,7 +21,7 @@
 
 ### 🔭 Latest projects I've contributed to
 
-- [emilienaufauvre/Neural-Network-CUDA-Library](https://github.com/emilienaufauvre/Neural-Network-CUDA-Library) - 
+- [emilienaufauvre/Neural-Network-CUDA-Library](https://github.com/emilienaufauvre/Neural-Network-CUDA-Library) - Implementation of a basic neural network, functions and datasets using C&#43;&#43; and CUDA.
 - [emilienaufauvre/Carbon-Visualizations](https://github.com/emilienaufauvre/Carbon-Visualizations) - Visualizations of the co2 emitted during work travels by researchers, using the D3.js library.
 - [emilienaufauvre/COMPAS](https://github.com/emilienaufauvre/COMPAS) - 🔎 An analysis of the COMPAS software results using the ProPublica dataset.
 - [emilienaufauvre/My-Linux-Config](https://github.com/emilienaufauvre/My-Linux-Config) - 🐧 Simple setup for my Ubuntu distribution.
