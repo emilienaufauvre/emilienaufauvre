@@ -26,9 +26,8 @@
 - [emilienaufauvre/COMPAS](https://github.com/emilienaufauvre/COMPAS) - 🔎 An analysis of the COMPAS software results using the ProPublica dataset.
 - [emilienaufauvre/My-Linux-Config](https://github.com/emilienaufauvre/My-Linux-Config) - 🐧 Simple setup for my Ubuntu distribution.
 - [emilienaufauvre/Node.io](https://github.com/emilienaufauvre/Node.io) - 🎮 A cross platform multiplayer game for android, iOS, web and desktop, using RabbitMQ for communications.
-- [emilienaufauvre/Java-RMI-Chat](https://github.com/emilienaufauvre/Java-RMI-Chat) - 💬 An online chat for several users using Java RMI.
 - [emilienaufauvre/Java-RabbitMQ-Chat](https://github.com/emilienaufauvre/Java-RabbitMQ-Chat) - 🥕 An online chat for several users using Java RabbitMQ.
-- [emilienaufauvre/Crypto.com-Wallet](https://github.com/emilienaufauvre/Crypto.com-Wallet) - 🔐 Fetch current time prices to view your crypto.com wallet and summary of your transactions, thanks to your .csv file and CoinAPI.
+- [emilienaufauvre/Java-RMI-Chat](https://github.com/emilienaufauvre/Java-RMI-Chat) - 💬 An online chat for several users using Java RMI.
 
 ### 📫 How to reach me
 - <a href="https://www.linkedin.com/in/emilien-aufauvre/">
