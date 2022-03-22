@@ -9,6 +9,7 @@
 
 ### 🌱 My latest projects
 
+- [emilienaufauvre/DCA-Crypto](https://github.com/emilienaufauvre/DCA-Crypto) - 🌾 Simple DCA script for cryptocurrency using the CCXT API.
 - [emilienaufauvre/Carbon-Visualizations](https://github.com/emilienaufauvre/Carbon-Visualizations) - Visualizations of the co2 emitted during work travels by researchers, using the D3.js library.
 - [emilienaufauvre/Neural-Network-CUDA-Library](https://github.com/emilienaufauvre/Neural-Network-CUDA-Library) -  🧠 Implementation of a basic neural network, functions and datasets using C&#43;&#43; and CUDA.
 - [emilienaufauvre/COMPAS](https://github.com/emilienaufauvre/COMPAS) - 🔎 An analysis of the COMPAS software results using the ProPublica dataset.
@@ -21,6 +22,7 @@
 
 ### 🔭 Latest projects I've contributed to
 
+- [emilienaufauvre/DCA-Crypto](https://github.com/emilienaufauvre/DCA-Crypto) - 🌾 Simple DCA script for cryptocurrency using the CCXT API.
 - [emilienaufauvre/Neural-Network-CUDA-Library](https://github.com/emilienaufauvre/Neural-Network-CUDA-Library) -  🧠 Implementation of a basic neural network, functions and datasets using C&#43;&#43; and CUDA.
 - [emilienaufauvre/Carbon-Visualizations](https://github.com/emilienaufauvre/Carbon-Visualizations) - Visualizations of the co2 emitted during work travels by researchers, using the D3.js library.
 - [emilienaufauvre/COMPAS](https://github.com/emilienaufauvre/COMPAS) - 🔎 An analysis of the COMPAS software results using the ProPublica dataset.
